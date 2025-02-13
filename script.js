@@ -13,7 +13,7 @@ function calculateLove() {
         "junaid_reena": 97,
         "alex_sophia": 95,
         "mamtesh_nikita":0,
-        "mithilesh_reena":0
+        "mithilesh_reena":100,
         // You can add more name pairs here
     };
 
@@ -32,12 +32,12 @@ function calculateLove() {
     }
 
     let message = "";
-    if (lovePercentage > 85) {
+    if (lovePercentage = 100) {
         message = "💞 A match made in heaven! ❤️";
-    } else if (lovePercentage > 65) {
+    } else if (lovePercentage > 85) {
         message = "😍 You both have great chemistry!";
     } else {
-        message = "💛 Love takes effort, keep going!";
+        message = "💛 Focus on you gole ,donn't waist your time!";
     }
 
     document.getElementById("result").innerHTML = 
