@@ -39,7 +39,6 @@ function calculateLove() {
         "junaid_reena": 97,
         "alex_sophia": 95,
         "mamtesh_nikita":0,
-        "" // You can add more name pairs here
     };
 
     let key1 = `${name1}_${name2}`;
