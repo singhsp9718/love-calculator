@@ -32,7 +32,7 @@ function calculateLove() {
     }
 
     let message = "";
-    if (lovePercentage = 100) {
+    if (lovePercentage > 85) {
         message = "💞 A match made in heaven! ❤️";
     } else if (lovePercentage > 85) {
         message = "😍 You both have great chemistry!";
