@@ -9,7 +9,7 @@ function calculateLove() {
 
     // Predefined name pairs and their fixed percentages
     let fixedResults = {
-        "ranjan_meenu": 98,
+        "ranjan_meenu": 97,
         "junaid_reena": 97,
         "alex_sophia": 95,
         "mamtesh_nikita":0,
